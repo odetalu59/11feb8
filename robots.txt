@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://abdullahwc.com/superjp.html/sitemap.xml
+Sitemap: http://abdullahwc.com/gilajp.html/sitemap.xml
+Sitemap: http://abdullahwc.com/gojekpot.html/sitemap.xml
+Sitemap: http://abdullahwc.com/winstrike69.html/sitemap.xml
+Sitemap: http://abdullahwc.com/jagoan86.html/sitemap.xml
+Sitemap: http://abdullahwc.com/slotzeus.html/sitemap.xml
+Sitemap: http://abdullahwc.com/kaptenjackpot.html/sitemap.xml
+Sitemap: http://abdullahwc.com/boosterjp.html/sitemap.xml
+Sitemap: http://abdullahwc.com/kerajaanslot.html/sitemap.xml
+Sitemap: http://abdullahwc.com/pakong86.html/sitemap.xml
+Sitemap: http://abdullahwc.com/viral88.html/sitemap.xml
+Sitemap: http://abdullahwc.com/clan4d.html/sitemap.xml
+Sitemap: http://abdullahwc.com/dinamit4d.html/sitemap.xml
+Sitemap: http://abdullahwc.com/elang212.html/sitemap.xml
+Sitemap: http://abdullahwc.com/gori77.html/sitemap.xml
+Sitemap: http://abdullahwc.com/viral4d.html/sitemap.xml
+Sitemap: http://abdullahwc.com/playground88.html/sitemap.xml
